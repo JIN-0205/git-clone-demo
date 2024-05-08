@@ -1,5 +1,4 @@
 # git-clone-demo
 
-This is a demo2.
-
+This is a demo of git clone.
 
